@@ -3,3 +3,6 @@
 __version__ = '0.0.1'
 __author__ = 'Marcos Rodrigues <marcos_lrodrigues@yahoo.com.br>'
 __all__ = []
+
+import logging
+logging.getLogger(__name__).addHandler(logging.NullHandler())
