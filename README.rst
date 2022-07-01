@@ -9,7 +9,7 @@ hidroteste
    :target:  https://www.travis-ci.org/marcosmlr/hidroteste
    :alt: Latest Travis CI build status
 
-A test package to web scraping of weather data
+A test package to web scraping weather data
 
 Usage
 -----
